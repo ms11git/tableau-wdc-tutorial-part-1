@@ -1,0 +1,12 @@
+{
+  "name": "project.json",
+  "version": "yarn add jquery",
+  "main": "index.js",
+  "repository": "https://github.com/ms11git/tableau-wdc-tutorial-part-1",
+  "author": "ms11git <mjseo11+git@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.5.1"
+  }
+}
