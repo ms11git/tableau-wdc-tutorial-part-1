@@ -1,12 +1,13 @@
 {
-  "name": "project.json",
-  "version": "yarn add jquery",
-  "main": "index.js",
-  "repository": "https://github.com/ms11git/tableau-wdc-tutorial-part-1",
-  "author": "ms11git <mjseo11+git@gmail.com>",
+  "name": "tableau-wdc-tutorial-part-1",
+  "version": "1.0.0",
+  "description": "Tableau Web Data Connector Tutorial Part 1",
+  "main": "index.html",
+  "repository": "http://github.com/tableaumagic/tableau-wdc-tutorial-part-1.git",
+  "author": "tableaumagic <admin@tableaumagic.com>",
   "license": "MIT",
   "dependencies": {
-    "bootstrap": "^4.5.3",
-    "jquery": "^3.5.1"
+    "bootstrap": "^4.1.3",
+    "jquery": "^3.3.1"
   }
 }
